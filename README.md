@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tabrez Alam</h1>
+<h1 >Hi 👋, I'm Tabrez Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align=right width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
