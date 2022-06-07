@@ -1,7 +1,15 @@
 <h1 >Hi 👋, I'm Tabrez Alam</h1>
 <h1>about me</h1>
-<h3 >I am currently learning Full Stack Web Develpment  </h3>
-<h3> My Portfolio :</h3>
+<table>
+<tr>
+  <td valign="center">
+    🌱 I am currently learning  **Full Stack Web Development**.
+<td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/Astrodevil"><img src="[https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU)"/></a>
+  </td>
+</tr>
+</table>
 <img align=right width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrezalam98&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezalam98" /> </p>
