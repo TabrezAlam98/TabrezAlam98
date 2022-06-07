@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Tabrez Alam</h1>
 <h1>about me</h1>
 <h3 >I am currently learning Full Stack Web Develpment  </h3>
-<3> My Portfolio :</h3>
+<h3> My Portfolio :</h3>
 <img align=right width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrezalam98&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezalam98" /> </p>
