@@ -5,7 +5,7 @@
   <td valign="center">
     🌱 I am currently learning  <b>Full Stack Web Development</b>
     </br>
-   💻 Portfolio : https://portfolio-tabrez.vercel.app/
+   💻 Portfolio : https://tabrezportfolio.vercel.app/
      </br>
   Address : Siddharth nagar , Utter pradesh 
   </br>
@@ -30,13 +30,13 @@ Phone : 9554445594
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrezalam98&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezalam98" /> </p>
 <h3> Experiences</h3>
 
-- 🔭 We have cloned fitmeals website [fitmeals clone](https://flourishing-brigadeiros-066ec5.netlify.app/)
+- 🔭 A web application especially created for Food Delivery , Healthy Food,Fitness Diet, Fitness meal. [fitmeals clone](https://flourishing-brigadeiros-066ec5.netlify.app/)
 
 
 
-- 👯 We have cloned shoppers-stop website [shoppers-stop clone](https://steady-bavarois-32dc0a.netlify.app/)
+- 👯 A Shoppers Stop web application created for buying clothes, handbags , shoes,jewellery , cosmetics , health and beauty products [shoppers-stop clone](https://steady-bavarois-32dc0a.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tabrez.vercel.app/](https://portfolio-tabrez.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-tabrez.vercel.app/](https://tabrezportfolio.vercel.app/) 
 
 - 💬 Ask me about **Html, Css, Javascript. react, redux**
 
