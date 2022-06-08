@@ -5,9 +5,8 @@
   <td valign="center">
     🌱 I am currently learning  <b>Full Stack Web Development</b>
     </br>
-   💻 Portfolio : https://tabrezportfolio.vercel.app/
-     </br>
- https://www.linkedin.com/in/tabrez-alam-3b4176233/
+  
+
  
    <td >
   
