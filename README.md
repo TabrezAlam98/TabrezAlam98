@@ -2,8 +2,10 @@
 <h1>about me</h1>
 <table>
 <tr>
-  <td valign="center">
-    🌱 I am currently learning  <b>Full Stack Web Development</b>
+  <td valign="center" width="50%">
+    I am currently learning  <b>Full Stack Web Development</b> and i like front end development.
+    I enjoy coding and solving problems. I like the impact it creates on the world.
+One of my strongest skills is creativity and it helps me a lot in web designs I have created various end to end website clone using MERN stack
     </br>
   
 
