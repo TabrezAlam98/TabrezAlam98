@@ -7,10 +7,6 @@
   </br>
   You can look into Pinned Repos
 
-    </br>
-  
-
- 
    <td >
   
 <img align=right width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
