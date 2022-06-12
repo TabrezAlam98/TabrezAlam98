@@ -3,9 +3,10 @@
 <table>
 <tr>
   <td valign="center" width="50%">
-    I am currently learning  <b>Full Stack Web Development</b> and i like front end development.
-    I enjoy coding and solving problems. I like the impact it creates on the world.
-One of my strongest skills is creativity and it helps me a lot in web designs I have created various end to end website clone using MERN stack
+    I am currently learning <b>Full Stack Web Development</b>, I like front end development. I enjoy coding and solving problems. I like how it impacts on the world. I believe I am  creative and which helps a lot in web designing I have created various end to end clone of various website using <b>MERN stack</b>.
+  </br>
+  You can look into Pinned Repos
+
     </br>
   
 
