@@ -30,11 +30,16 @@
 
 
 
+<div align="center">
+ <h2 align="center">My Github Stats</h2>
 
 
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrezalam98&show_icons=true&locale=en&layout=compact" alt="tabrezalam98" /></div>
+  <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrezalam98&show_icons=true&locale=en&layout=compact" alt="tabrezalam98" /></p>
 
-<div align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tabrezalam98&show_icons=true&locale=en" alt="tabrezalam98" /></div>
+<p >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tabrezalam98&show_icons=true&locale=en" alt="tabrezalam98" /></p>
 
-<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tabrezalam98&" alt="tabrezalam98" /></div>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tabrezalam98&" alt="tabrezalam98" /></p>
+</div>
+
+
 
