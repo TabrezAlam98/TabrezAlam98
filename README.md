@@ -1,5 +1,6 @@
 <div align="center"><h1 >Hi 👋, I'm Tabrez Alam</h1></div>
 <h1>about me</h1>
+
 <table>
 <tr>
   <td valign="center" width="50%">
@@ -29,17 +30,15 @@ Phone : 9554445594
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrezalam98&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezalam98" /> </p>
 <h3> Experiences</h3>
 
-- 🔭 A web application especially created for Food Delivery , Healthy Food,Fitness Diet, Fitness meal. [fitmeals clone](https://flourishing-brigadeiros-066ec5.netlify.app/)
-
-
-
-- 👯 A Shoppers Stop web application created for buying clothes, handbags , shoes,jewellery , cosmetics , health and beauty products [shoppers-stop clone](https://steady-bavarois-32dc0a.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://tabrezalam98.github.io/](https://tabrezalam98.github.io/) 
-
-- 💬 Ask me about **Html, Css, Javascript. react, redux, Chakra-ui, **
-
 - 📫 How to reach me **tabrezalamyci1@gmail.com**
+- 🔭 I’m currently →  pursuing Full Stack Web Development
+- 💬 Ask me about  →   **JavaScript, DSA, React**
+- 👨‍💻 Portfolio  →   [https://tabrezalam98.github.io/](https://tabrezalam98.github.io/)
+- 🌐 LinkedIn  →    [Tabrez Alam](https://www.linkedin.com/in/tabrez-alam-3b4176233/)
+- 📜 Here is my resume → <a href="https://drive.google.com/file/d/1wjdmzSpw8VOgXTuYlmQGE2A59dKmi841/view?usp=share_link">Resume</a>
+
 
 
 
