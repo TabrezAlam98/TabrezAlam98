@@ -15,13 +15,8 @@
 </tr>
 </table>
 <div align="left">
- <h3 >Connect with me:</h3>
-<p >
-<a href="https://www.linkedin.com/in/tabrez-alam-3b4176233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabrez alam" height="30" width="40" /></a>
-</p>
-📫 Email : tabrezalamyci1@gmail.com
-</br>
-Phone : 9554445594
+
+
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
