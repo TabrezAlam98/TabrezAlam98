@@ -19,7 +19,7 @@
 <h1>about me</h1>
 
 
-- 👨‍💻 All of my projects are available at [https://tabrezalam98.github.io/](https://github.com/TabrezAlam98?tab=repositories) 
+- 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/TabrezAlam98?tab=repositories) 
 - 📫 How to reach me **tabrezalamyci1@gmail.com**
 - 🔭 I’m currently →  pursuing Full Stack Web Development
 - 💬 Ask me about  →   **JavaScript, DSA, React**
