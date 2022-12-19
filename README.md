@@ -22,7 +22,7 @@
 - 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/TabrezAlam98?tab=repositories) 
 - 📫 How to reach me **tabrezalamyci1@gmail.com**
 - 🔭 I’m currently →  pursuing Full Stack Web Development
-- 💬 Ask me about  →   **JavaScript, DSA, React**
+- 💬 Ask me about  →   **JavaScript, DSA, React, Redux, Chakra-ui, NodeJs, Express.js, MongoDB**
 - 👨‍💻 Portfolio  →   [https://tabrezalam98.github.io/](https://tabrezalam98.github.io/)
 - 🌐 LinkedIn  →    [Tabrez Alam](https://www.linkedin.com/in/tabrez-alam-3b4176233/)
 - 📜 Here is my resume → <a href="https://drive.google.com/file/d/1wjdmzSpw8VOgXTuYlmQGE2A59dKmi841/view?usp=share_link">Resume</a>
