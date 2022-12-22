@@ -1,4 +1,4 @@
-<div align="center"><h1 >Hi 👋, I'm Tabrez Alam</h1></div>
+<div align="center"><h1 >Hi 👋  I'm Tabrez Alam</h1></div>
 <div align="center">
 <img align=center width="85%" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 <h1>Aspiring MERN Developer</h1>
